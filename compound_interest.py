@@ -2,7 +2,7 @@
 # Do not use this in production. Sample purpose only.
 
 # Author: Upkar Lidder (IBM)
-
+#revert typo change
 # Input:
 # p, principal amount
 # t, time period in years
